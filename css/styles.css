@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+    color: black;
+    border: 1px solid black;
+    width: 100%;
+ }
+ table, th {
+     text-align: center;
+     padding: 5px 0px;
+ }
+ table, td {
+     padding: 3px;
+ }
+ thead, th {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    background-color: royalblue;
+ }
+ .T01 {
+    text-align:start;
+ }
+ .color {
+     color: red;
+     
+ }
